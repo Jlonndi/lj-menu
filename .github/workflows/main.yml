@@ -1,4 +1,4 @@
-- name: Sync and merge upstream repository with your current repository
+  name: Sync and merge upstream repository with your current repository
   # You may pin to the exact commit or the version.
   # uses: dabreadman/sync-upstream-repo@e95e4f60387f27f9fa79a3f59b3c5591ddc4271e
   uses: dabreadman/sync-upstream-repo@v1.0.0.b
